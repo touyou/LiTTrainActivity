@@ -26,3 +26,4 @@
 	- ユーザープロフィールを見る機能やいいね・リツイートの通知はいらないのでカット
 	- Twitterの扱いについては[ここ](http://himaratsu.hatenablog.com/entry/twitter/api)
 	- タイトル案「ネタ☆リプ」、「funny tweet」、「Imagenius」、「イマジニアス」、
+	- ![app_prot1](app_prot1.png)
