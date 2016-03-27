@@ -1,4 +1,4 @@
-# TechFile進捗
+# TechFile進捗(iPhone)
 [時計](https://github.com/touyou/ClockLiT)  
 [カウント](https://github.com/touyou/CountLiT)  
 [電卓](https://github.com/touyou/CalculatorLiT)  
@@ -11,3 +11,18 @@
 [フォトマスター](https://github.com/touyou/PhotoMasterLiT)  
 [迷路ゲーム](https://github.com/touyou/MazeLiT)  
 [テクモン](https://github.com/touyou/TechMonsterLiT)  
+
+# AndroidをKotlinで実装
+※ただしコード素材の無いものに限る  
+[カウント](https://github.com/touyou/CountKotlin)  
+[タップナンバー](https://github.com/touyou/TapNumberKotlin)  
+[電卓](https://github.com/touyou/CalculatorKotlin)  
+[じゃんけん](https://github.com/touyou/JankenKotlin)  
+[クラップ](https://github.com/touyou/ClapBeatKotlin)  
+
+### 飛ばしたもの
+- 時計
+- クイズ
+- 脱出ゲーム
+- テクドラ
+- スタンプ
