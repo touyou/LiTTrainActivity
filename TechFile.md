@@ -23,7 +23,8 @@
 [もぐらたたき](https://github.com/touyou/TapAMoleKotlin)  
 [プレゼントキャッチ](https://github.com/touyou/PresentCatchKotlin)  
 [Canvasを試す](https://github.com/touyou/CanvasKotlin)  
-[お絵かきアプリ](https://github.com/touyou/FingerPaintKotlin)
+[お絵かきアプリ](https://github.com/touyou/FingerPaintKotlin)  
+メモ帳アプリ  
 
 ### 飛ばしたもの
 - 時計
@@ -31,3 +32,29 @@
 - 脱出ゲーム
 - テクドラ
 - スタンプ
+
+# WebDesign
+（終わったものには左に★をつける）
+★はじめてのWebデザイン  
+★ボタンを作ろう  
+★コンテンツを作ろう  
+★メニューを作ろう  
+★全体のレイアウトを作ろう  
+★自己紹介サイトを作ろう  
+★初級Tips  
+★自由なレイアウト  
+★サッカーWeb  
+★パティスリーWeb  
+★アニメWeb  
+★illustrator  
+★CSSアニメ  
+★jQuery  
+Photoshop  
+  
+これらを総合してモックアップから作成し自分の[ホームページ](http://touyou.github.io/)のデザインのリニューアルを行った。
+
+# WebProgramming
+[カウントアプリ](https://c9.io/touyou/countlit)→[Web上に公開](https://immense-beach-36337.herokuapp.com/count)  
+[ブックマークアプリ](https://c9.io/touyou/bookmarklit)  
+
+
