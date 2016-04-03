@@ -19,6 +19,11 @@
 [電卓](https://github.com/touyou/CalculatorKotlin)  
 [じゃんけん](https://github.com/touyou/JankenKotlin)  
 [クラップ](https://github.com/touyou/ClapBeatKotlin)  
+[まるばつゲーム](https://github.com/touyou/TicTacToeKotlin)  
+[もぐらたたき](https://github.com/touyou/TapAMoleKotlin)  
+[プレゼントキャッチ](https://github.com/touyou/PresentCatchKotlin)  
+[Canvasを試す](https://github.com/touyou/CanvasKotlin)  
+[お絵かきアプリ](https://github.com/touyou/FingerPaintKotlin)
 
 ### 飛ばしたもの
 - 時計
