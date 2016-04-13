@@ -57,4 +57,20 @@ Photoshop
 [カウントアプリ](https://c9.io/touyou/countlit)→[Web上に公開](https://immense-beach-36337.herokuapp.com/count)  
 [ブックマークアプリ](https://c9.io/touyou/bookmarklit)  
 
-
+# MediaArt
+Done: A01, A02, A03, A04, A05
+## メモ
+### RGB -> HSB
+H = (if maxRGB == minRGB { 0 } else {
+      switch(maxRGB){
+      case R: (((60 * (G - B)) / (max - min)) + 360) % 360
+      case G: ((60 * (B - R)) / (max - min)) + 120
+      case B: ((60 * (R - G)) / (max - min)) + 240
+      }
+      }
+S = (max - min) / max * 255
+B = max
+### HSB -> RGB
+max = B
+min = max - ((255 / S) * max)
+Hの値60刻みに変わる
