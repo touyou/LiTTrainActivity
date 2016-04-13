@@ -58,7 +58,7 @@ Photoshop
 [ブックマークアプリ](https://c9.io/touyou/bookmarklit)  
 
 # MediaArt
-Done: A01, A02, A03, A04, A05
+Done: A01, A02, A03, A04, A05, B01, B02a
 ## メモ
 ### RGB -> HSB
 ```
@@ -78,3 +78,5 @@ max = B
 min = max - ((255 / S) * max)
 Hの値60刻みに変わる
 ```
+### Perfumeについて
+B02bのプログラムが途中でメモリ解放エラーみたいなんで止まる...?
