@@ -23,7 +23,7 @@
 [もぐらたたき](https://github.com/touyou/TapAMoleKotlin)  
 [プレゼントキャッチ](https://github.com/touyou/PresentCatchKotlin)  
 [Canvasを試す](https://github.com/touyou/CanvasKotlin)  
-[お絵かきアプリ](https://github.com/touyou/FingerPaintKotlin)  
+[お絵かきアプリ](https://github.com/touyou/FingerPaintKotlin)※MediaScannerConnectionClientがどうしてもエラー出てしまう  
 メモ帳アプリ  
 
 ### 飛ばしたもの
