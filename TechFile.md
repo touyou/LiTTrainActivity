@@ -65,7 +65,7 @@ Photoshop
 [JSON+API](https://c9.io/touyou/jsonlit)  
 
 # MediaArt
-Done: A01, A02, A03, A04, A05, B01, B02a
+Done: A01, A02, A03, A04, A05, B01, B02a, B02b, B02d
 ## メモ
 ### RGB -> HSB
 ```
