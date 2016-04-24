@@ -65,7 +65,8 @@ Photoshop
 [JSON+API](https://c9.io/touyou/jsonlit)  
 
 # MediaArt
-Done: A01, A02, A03, A04, A05, B01, B02a, B02b, B02d
+Done: A01, A02, A03, A04, A05, B01, B02a, B02b, B02d, B04  
+C01〜C05はツールが無いので飛ばす
 ## メモ
 ### RGB -> HSB
 ```
@@ -87,3 +88,5 @@ Hの値60刻みに変わる
 ```
 ### Perfumeについて
 B02bのプログラムが途中でメモリ解放エラーみたいなんで止まる...?
+
+# Unity
