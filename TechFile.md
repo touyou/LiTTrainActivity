@@ -112,4 +112,5 @@ StopGame
 UnityRun  
 UnityBall  
 SuperUnityMaker  
-FPS
+FPS  
+FlappyBird なぜかOnCollisionEnterが呼び出されない？  
