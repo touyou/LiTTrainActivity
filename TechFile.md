@@ -41,7 +41,7 @@
 [プレゼントキャッチ](https://github.com/touyou/PresentCatchKotlin)  
 [Canvasを試す](https://github.com/touyou/CanvasKotlin)  
 [お絵かきアプリ](https://github.com/touyou/FingerPaintKotlin)※MediaScannerConnectionClientがどうしてもエラー出てしまう  
-メモ帳アプリ  
+[メモ帳アプリ](https://github.com/touyou/TechMemoKotlin)ActiveAndroidのエラー?  
 
 ### 飛ばしたもの
 - 時計
